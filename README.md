@@ -1,7 +1,9 @@
-# hello-world
+# Bem-vindes!
 
-My first repository on GitHub
+Construindo aqui meu primeiro portfólio em Desenvolvimento Web. 
 
-Eu sou Ludy Lima
+Movida pela coragem, resiliência e desafios!
 
-Eu amo :dog: :coffee: :sound: :books:
+Estudando HTML, CSS, jQuery, Bootstrap, Angular e NodeJS, bem como Metodologias Ágeis e Power BI.
+
+Perfil em construção...
