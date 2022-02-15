@@ -1,6 +1,9 @@
 # Bem-vindes!
 
-Construindo aqui meu primeiro portfólio em Desenvolvimento Web. 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmillakhatarina/)
+[![Gmail badge](https://img.shields.io/badge/-ludy.k.lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ludy.k.lima@gmail.com)](mailto:ludy.k.lima@gmail.com)
+
+Construindo aqui meu primeiro portfólio em Desenvolvimento Web.
 
 Movida pela coragem, resiliência e desafios!
 
